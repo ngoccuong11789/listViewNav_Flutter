@@ -5,5 +5,3 @@ Handling tap events in Flutter with callbacks. Using Navigator and MaterialPageR
 ## Lesson Goals
 1. Handling tap events with Callbacks
 2. Using Navigation and MaterialPageRoute
-
-[Video tutorial](https://fluttercrashcourse.com/courses/basics/lessons/navigation-tap-events)
